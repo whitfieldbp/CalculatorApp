@@ -1,7 +1,5 @@
 public class B {
-    public static void main(String args[]) {
-        public void saveTheWorld() {
-            
-        }
+    public static void savaTheWorld() {
+System.out.println("Easier than I thought");
     }
 }
